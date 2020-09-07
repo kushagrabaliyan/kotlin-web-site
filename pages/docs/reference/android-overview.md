@@ -2,7 +2,7 @@
 type: doc
 layout: reference
 category: "Introduction"
-title: "Kotlin for Android"
+title: "Kotlin for Andro"
 ---
 
 # Using Kotlin for Android Development
